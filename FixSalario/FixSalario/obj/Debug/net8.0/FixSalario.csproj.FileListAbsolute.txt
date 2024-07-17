@@ -1,0 +1,14 @@
+C:\Users\muril\source\repos\FixSalario\FixSalario\bin\Debug\net8.0\FixSalario.exe
+C:\Users\muril\source\repos\FixSalario\FixSalario\bin\Debug\net8.0\FixSalario.deps.json
+C:\Users\muril\source\repos\FixSalario\FixSalario\bin\Debug\net8.0\FixSalario.runtimeconfig.json
+C:\Users\muril\source\repos\FixSalario\FixSalario\bin\Debug\net8.0\FixSalario.dll
+C:\Users\muril\source\repos\FixSalario\FixSalario\bin\Debug\net8.0\FixSalario.pdb
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\FixSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\FixSalario.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\FixSalario.AssemblyInfo.cs
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\FixSalario.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\FixSalario.dll
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\refint\FixSalario.dll
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\FixSalario.pdb
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\FixSalario.genruntimeconfig.cache
+C:\Users\muril\source\repos\FixSalario\FixSalario\obj\Debug\net8.0\ref\FixSalario.dll
